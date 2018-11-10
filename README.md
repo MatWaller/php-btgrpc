@@ -1,4 +1,4 @@
-# Simple Bitcoin Gold JSON-RPC client.
+# Simple Bitcoin Gold PHP JSON-RPC client.
 
 ## Installation
 Run ```php composer.phar require matwaller/php-goldrpc``` in your project directory or add following lines to composer.json
